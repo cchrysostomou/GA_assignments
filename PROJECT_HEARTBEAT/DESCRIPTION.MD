@@ -29,4 +29,5 @@ The data comes with two main datasets. Each dataset will provide audio files of 
     * Extrasystole
 
 **Why did you choose this topic?**
+
 Seems like an interesting challenge to identify the real/important features from a noisy signal. Also applying these techniques in the medical industry is always very useful because it can decrease a lot of subjective determination and variance across medical professionals.

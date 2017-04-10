@@ -1,0 +1,6 @@
+wave
+numpy
+pandas
+plotly
+scikit-learn
+soundfile

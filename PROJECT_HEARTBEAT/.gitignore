@@ -1,2 +1,5 @@
 *.csv
+set_a/
+set_b/
+raw_data_quick_look.ipynb
 
